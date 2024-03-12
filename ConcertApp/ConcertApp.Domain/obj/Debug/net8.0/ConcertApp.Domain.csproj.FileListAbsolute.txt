@@ -1,0 +1,11 @@
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Domain\bin\Debug\net8.0\ConcertApp.Domain.deps.json
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Domain\bin\Debug\net8.0\ConcertApp.Domain.dll
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Domain\bin\Debug\net8.0\ConcertApp.Domain.pdb
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Domain\obj\Debug\net8.0\ConcertApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Domain\obj\Debug\net8.0\ConcertApp.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Domain\obj\Debug\net8.0\ConcertApp.Domain.AssemblyInfo.cs
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Domain\obj\Debug\net8.0\ConcertApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Domain\obj\Debug\net8.0\ConcertApp.Domain.dll
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Domain\obj\Debug\net8.0\refint\ConcertApp.Domain.dll
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Domain\obj\Debug\net8.0\ConcertApp.Domain.pdb
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Domain\obj\Debug\net8.0\ref\ConcertApp.Domain.dll

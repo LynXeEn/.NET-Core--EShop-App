@@ -1,0 +1,11 @@
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Repository\bin\Debug\net8.0\ConcertApp.Repository.deps.json
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Repository\bin\Debug\net8.0\ConcertApp.Repository.dll
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Repository\bin\Debug\net8.0\ConcertApp.Repository.pdb
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Repository\obj\Debug\net8.0\ConcertApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Repository\obj\Debug\net8.0\ConcertApp.Repository.AssemblyInfoInputs.cache
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Repository\obj\Debug\net8.0\ConcertApp.Repository.AssemblyInfo.cs
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Repository\obj\Debug\net8.0\ConcertApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Repository\obj\Debug\net8.0\ConcertApp.Repository.dll
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Repository\obj\Debug\net8.0\refint\ConcertApp.Repository.dll
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Repository\obj\Debug\net8.0\ConcertApp.Repository.pdb
+C:\Users\User\Integrirani Sistemi\ConcertApp\ConcertApp.Repository\obj\Debug\net8.0\ref\ConcertApp.Repository.dll
